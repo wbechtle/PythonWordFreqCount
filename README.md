@@ -1,7 +1,7 @@
 <h1>Python Word Frequency Counter</h1>
 
 <h2>Description</h2>
-<p>This project provides the ability to locate a file and count the occurance of each word within the file.</p>
+<p>This project provides the user the ability to locate a file and count the occurrence of each word within the file and output the results to a file.</p>
 
 <h2>Objectives</h2>
 <ol>
